@@ -1,0 +1,12 @@
+table{
+    width: 100%;
+    font-family: Algerian;
+}
+th,td{
+    border:2px blue solid;
+    padding: 15px;
+}
+
+
+
+
